@@ -1,5 +1,4 @@
 ---
-
 title: "Welcome to My Blog"
 layout: default
 ---
@@ -23,6 +22,4 @@ If you want to connect, feel free to reach out via:
 📧 Email: [ankit.kr.e9@gmail.com](mailto:ankit.kr.e9@gmail.com)  
 🐦 Twitter: [@ankit_1ak](https://twitter.com/ankit_1ak)  
 📷 Instagram: [@ankit.1kr](https://instagram.com/ankit.1kr)  
-
----
 
