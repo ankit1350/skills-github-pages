@@ -7,13 +7,26 @@ layout: default
 Welcome to my personal blog, where I share my thoughts, projects, and experiences.
 
 ### 📌 About This Site  
-- This blog is powered by **GitHub Pages** and **Jekyll**.  
-- The theme used is **Minima**, which provides a clean and simple look.  
-- Stay tuned for future posts!  
+👋 About Me
+Hi! I'm Ankit Kumar, a passionate and self-driven Python & Django developer currently exploring the world of web development and full-stack applications. I love turning ideas into reality through clean, efficient, and user-friendly websites.
+
+💻 I specialize in:
+
+Building dynamic web apps using Django
+Designing responsive front-ends with HTML, CSS, and JavaScript
+Writing clean and maintainable Python code
+Deploying apps and managing version control with Git & GitHub
+🎯 My goal is to become a skilled full-stack developer, contribute to open-source projects, and eventually work with top tech companies or exciting startups.
+🚀 Currently, I'm working on:
+Real-world Django projects like blogs, contact forms, and service websites
+Improving my skills in JavaScript and modern front-end frameworks
+Learning tools like VS Code, Git, and WSL
+When I'm not coding, I enjoy learning about AI/ML, reading tech blogs, or experimenting with design ideas to make websites more visually appealing and functional.
+Let’s connect if you’re looking for someone to collaborate on a web project or need a developer to bring your idea to life!
 
 ### 🚀 Recent Posts  
 Check out my latest posts:  
-- **[My First Blog Post](#)**  
+- **[My First Portfolio Project](https://makeup-portfolio-production.up.railway.app/)**  
 - **[How I Set Up This Site](#)**  
 - **[Learning Jekyll: A Beginner’s Guide](#)**  
 
