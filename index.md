@@ -26,7 +26,7 @@ Let’s connect if you’re looking for someone to collaborate on a web project 
 
 ### 🚀 Recent Posts  
 Check out my latest posts:  
-- **[My First Portfolio Project](https://makeup-portfolio-production.up.railway.app/)**  
+- **[My First Portfolio Project](https://github.com/ankit1350/makeup_project)**  
 - **[How I Set Up This Site](#)**  
 - **[Learning Jekyll: A Beginner’s Guide](#)**  
 
